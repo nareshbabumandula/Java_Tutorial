@@ -14,6 +14,8 @@ public class Shortcuts
 		int b=20;
 		int c=30;
 		String strName = "Ajay";*/
+		// Run the code - Ctrl+F11 or Click on Run button or Right Click > Run As>Java Application
+
 	}
 
 }
