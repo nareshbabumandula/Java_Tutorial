@@ -31,9 +31,12 @@ public class DataTypes {
 		byte b2 =(byte) a2; //Type casting
 		System.out.println("Narrowing: Storing a bigger data type value (int) into a sammler data type byte : " + b2);
 		
-		
-		
-		
+		// Non primitve data types
+		String sText = "hello world";
+		System.out.println(sText);
+		String strNames[] = {"naresh","raju","ajay","naga","eric","pete","stacey","tejaswi"};
+		System.out.println(strNames[0]);
+		System.out.println("Length of the array strNames is : "+ strNames.length);
 		
 		
 	}
