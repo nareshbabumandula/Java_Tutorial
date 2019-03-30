@@ -2,6 +2,7 @@ package methods;
 
 public class MethodsTest {
 
+	
 	//Class variable/Instance - A variable which is declared inside a class and outside a method
 	int a=10; // State or Characteristics or Attributes or data members
 	int b=20;
@@ -16,6 +17,8 @@ public class MethodsTest {
 	 * @author NareshBabu
 	 * @DateModified
 	 */
+	
+	// I added a comment
 	public void Addition()
 	{
 		int d=100; // Local variable
@@ -53,7 +56,6 @@ public class MethodsTest {
 		System.out.println("Modulus of a and b is : " + c);
 	}
 	
-
 	public static void main(String[] args) {
 		//Syntax for creating an object for a class
 
@@ -69,6 +71,7 @@ public class MethodsTest {
 		System.out.println(at.a);
 		System.out.println(at.b);
 		System.out.println(e);
+	
 	
 	}
 
